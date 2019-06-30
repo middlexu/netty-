@@ -6,4 +6,6 @@ netty自定义传输协议
 
 netty自定义传输协议进阶版
 
-netty心跳检测
+netty定时发送状态给服务器
+
+netty超时机制
